@@ -1,0 +1,42 @@
+[
+    {
+    "id": 1,
+    "title": "Guadeloupéenne dans l'âme.",
+    "author": "Loïse",
+    "category": "Histoire",
+    "img": "/images/guadeloupe.jpg",
+    "img_alt": "Photo de la Guadeloupe",
+    "sub_title": "Un petit coin de paradis",
+    "text": "La Guadeloupe est une destination prisée pour le tourisme, pour ses plages de sable blanc ou de sable noir, ses cascades, ses musées, sa faune et sa flore, et ses nombreux sites à découvrir au hasard de la visite de certaines communes de l'île.\n\nLa Guadeloupe offre aussi de nombreuses activités sportives, comme le nautisme, randonnées, découverte des fonds marins, pêche au gros, visite de Grand-cul-de-sac-Marin, etc. C'est ainsi la première destination touristique de l'Outremer français. En effet le tourisme guadeloupéen met en avant tous les atouts de l’île aussi bien le soleil et la mer que la forêt et le volcan : la Soufrière. La Guadeloupe est attractive surtout durant l’hiver où les touristes cherchent la chaleur sur les belles plages.\n\nLe tourisme en Guadeloupe est rendu attractif par la richesse naturelle de l'île, flore et faune, et aux moyens mis en place par le parc national de la Guadeloupe. L'activité touristique possède sa propre économie, essentiellement centrée sur une clientèle française. Les touristes qui visitent la Guadeloupe ne sont que 12 % à voyager seuls contre 80 % à se déplacer en famille."
+    },
+    {
+    "id": 2,
+    "title": "Avant d'être dev",
+    "author": "Loïse",
+    "category": "Before",
+    "img": "/images/market.png",
+    "img_alt": "Photo market",
+    "sub_title": "Ennui total",
+    "text": "Après de longues années dans la grande distribution à répéter les mêmes actions, les mêmes phrases, à pratiquer toujours le même parcours. L’heure est arrivée où mon métier ne me correspondait plus !\n\nMon besoin de changement a été une surprise pour un grand nombre de mon entourage, mais je sentais que c’était le moment.\n\n Pendant mes congés payés (Août 2019), j’ai épluché les listes de formation que proposait le Fongécif. Le métier de développeur web et web mobile m’a attiré et j’ai commencé à effectuer des recherches sur les avantages, les inconvénients et bien évidemment les différents centres de formation. D’ailleurs, j’ai profité des 4 derniers mois de l’année pour rencontrer le pôle admission de chaque centre de formations parce qu’il a fallu que je choisisse le centre de formation pour que mon dossier soit accepté par le Fongécif. Pour finalement, demander une rupture conventionnelle.\n\nTous les centres ont accepté ma candidature sauf un : O’clock. Je me suis dit pourquoi les autres m’ont accepté et pas lui ? Première approche, j’ai échoué lors du test en Anglais. Donc j’ai persévéré dans mon apprentissage de l’anglais.\n\nÀ la suite d’une deuxième chance, j’ai enfin pu intégrer cette formation."
+    },
+    {
+    "id": 3,
+    "title": "Développeuse Web.",
+    "author": "Loïse",
+    "category": "Dev",
+    "img": "/images/monbureau.jpg",
+    "img_alt": "Photo de mon bureau",
+    "sub_title": "New Life",
+    "text": "Voili, voilà!!! Je suis ce que j'ai toujours voulu être. Une développeuse Web. Reste plus qu'à, n'est-ce pas? Les autres y arrivent pourquoi pas moi"
+    },
+    {
+    "id": 4,
+    "title": "Tellement de choses en tête",
+    "author": "Loïse",
+    "category": "Dev",
+    "img": "/images/boiteaidees.jpg",
+    "img_alt": "Photo boite à idées",
+    "sub_title": "Pleins la tête",
+    "text": "Avec pleins de projets en tête, j'ai envie de faire tellement de choses que j'en rêves le soir.\n\nJ'en parles à ma famille, ils ne comprennent absolu rien mais ils me soutiennent à fond la caisse.\n\nDu coup je n'en dors plus la nuit"
+    }
+]

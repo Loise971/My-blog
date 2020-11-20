@@ -1,0 +1,25 @@
+<%- include('partials/header'); %>
+<article class="post post--full pure-u-1">
+    <div class="post-content post--category-<%= article.category.toLowerCase() %>">
+        <header class="post-header">
+            <a class="post-back" href="/">&lt; Retour à l'accueil</a>
+            <h2 class="post-title"><%= article.title %></h2>
+            <p class="post-meta">
+                Par <a class="post-author" href="#"><%= article.author %></a> dans la catégorie <a
+                    class="post-category" href="/category/<%= article.category.toLowerCase() %>"><%= article.category %></a>
+            </p>
+        </header>
+        <figure>
+            <img class="post-image" src="<%= article.img %>" alt="<%= article.img_alt %>">
+            <figcaption class="post-image-caption"><%= article.sub_title %></figcaption>
+        </figure>
+        <main class="post-description">
+            <div class="post-text">
+                <% for (let paragraph of article.text.split('\n\n')) { %>
+                  <p><%= paragraph %></p>
+                <% } %>
+            </div>
+        </main>
+    </div>
+</article>
+<%- include('partials/footer'); %>
